@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Project AquaticRobot by Warren Su
 
-You can use the [editor on GitHub](https://github.com/WarrenSu0115/AquaticRobot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a project dedicated to recreate a simple ecosystem in the nature.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The mission of this project is to form a group of aquatic drones that could interact
+
+with each other, receive stimulus from the environment and change their
+
+behaviors accordingly.
 
 ### Markdown
 
