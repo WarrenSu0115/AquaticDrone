@@ -1,4 +1,4 @@
-## Project AquaticRobot by Warren Su
+## Project AquaticDrone by Warren Su
 
 This is a project dedicated to recreate a simple ecosystem in the nature.
 
