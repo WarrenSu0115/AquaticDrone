@@ -2,6 +2,7 @@
 
 - Arduino Uno x 1
 - MG90S Servos x 4
+- Relays x 2
 - 12VDC Brushless Fans x 2
 - 1S Lithium-Poly Batteries (3.7VDC) x 3 //Soldering three cells in series gives 11.1VDC
 - 470 uF(or greater) capacitors x 2 //To adjust misbehaving servos 
