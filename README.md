@@ -8,4 +8,4 @@ As of August 2016, I successfully managed to build a working prototype. The prot
 
 The development of this project had stopped as I immediately became broke just after building the first prototype. Finally, you should view on the demo video on YouTube as it is quite fascinating. I hope someone can use my example as a start to create something even greater!
 
-![Image](src)
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/Fan%20Test.jpg)
