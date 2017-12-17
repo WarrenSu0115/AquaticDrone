@@ -1,7 +1,6 @@
 # Project AquaticDrone by Warren Su
 
 Creator: Warren Su
-
 Profile: [Link](https://www.instagram.com/warrensu/)
 
 Project AquaticDrone a project dedicated to recreate a simple ecosystem in the nature.
