@@ -2,5 +2,6 @@ theme: jekyll-theme-architect
 plugins:
   - jekyll-seo-tag
 
-{% seo %}
+<title>Project AquaticDrone|Warren Su</title>
+<meta content="Project AquaticDrone: a project dedicated to recreate a simple ecosystem in nature. The mission of this project was to form a group of aquatic drones that could interact with each other, receive stimulus from the environment, and change their behaviors accordingly." name="description">
 
