@@ -3,7 +3,7 @@
 Creator: Warren Su
 ([Link To Profile](https://www.instagram.com/warrensu/))
 
-Project AquaticDrone: a project dedicated to recreate a simple ecosystem in the nature.
+Project AquaticDrone: a project dedicated to recreate a simple ecosystem in nature.
 
 The mission of this project was to form a group of aquatic drones that could interact with each other, receive stimulus from the environment, and change their behaviors accordingly.
 
