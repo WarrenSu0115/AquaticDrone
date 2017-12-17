@@ -23,6 +23,11 @@ The development of this project had stopped as I immediately became broke just a
 ![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20II%20(Pool).jpg)
 
 # MARK III (7/2017)
+### Fusion 360
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/3D%20Drawings/Assembly.png)
+### 3D Printed Structure
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/3D%20Drawings/Assembly%202.jpg)
+### Assembly
 ![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20III.jpg)
 ### Pool Test
 ![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20III%20(Pool).jpg)
