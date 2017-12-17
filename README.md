@@ -10,3 +10,21 @@ The development of this project had stopped as I immediately became broke just a
 
 # Fan Test (12/2016)
 ![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/Fan%20Test.jpg)
+
+# MARK I (1/2017)
+### Bath Tub Test
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20I%20(Bath%20Tub).jpg)
+### Pool Test
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20I%20(Pool).jpg)
+
+# MARK II (4/2017)
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20II.JPG)
+### Pool Test
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20II%20(Pool).jpg)
+
+# MARK III (7/2017)
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20III.jpg)
+### Pool Test
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/MARK%20III%20(Pool).jpg)
+
+
