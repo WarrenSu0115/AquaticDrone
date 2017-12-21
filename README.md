@@ -12,7 +12,7 @@ As of August 2017, I successfully managed to build a working prototype. The prot
 The development of this project had stopped as I became broke just after building the first prototype. You should view the demo video on YouTube as it is quite fascinating. Finally, I hope someone can use my example as a start to create something even greater!
 
 # Fan Test (12/2016)
-![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/Fan%20Test.jpg =297x210)
+![alt text](https://raw.githubusercontent.com/WarrenSu0115/AquaticDrone/master/images/Fan%20Test.jpg)
 
 # MARK I (1/2017)
 ### Bath Tub Test
